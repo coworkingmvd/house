@@ -1,4 +1,3 @@
-house
-=====
+# Coworking Space
 
-Information about the coworking space and the issues
+Information about the house and the current issues goes here.
